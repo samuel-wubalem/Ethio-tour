@@ -1,0 +1,976 @@
+[
+  {
+  "_id": {
+    "$oid": "63d9376cc3d1840180bb3452"
+  },
+  "startLocation": {
+    "type": "Point",
+    "description": "Addis Ababa , Ethiopia",
+    "coordinates": [
+      8.98503017922351,
+      38.793638554625495
+    ],
+    "address": "Bole airport"
+  },
+  "ratingAvarage": 4.5,
+  "ratingQuantity": 25,
+  "images": [
+    "tour-1-2.jpg",
+    "tour-1-4.jpg",
+    "tour-1-5.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675179884505"
+    }
+  },
+  "startDate": [
+    {
+      "$date": {
+        "$numberLong": "1619334000000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1658300400000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1601881200000"
+      }
+    }
+  ],
+  "guides": [
+    {
+      "$oid": "5c8a1f292f8fb814b56fa184"
+    },
+    {
+      "$oid": "5c8a22c62f8fb814b56fa18b"
+    }
+  ],
+  "name": "Bahir dar",
+  "duration": 5,
+  "maxGroupSize": 25,
+  "difficulty": "easy",
+  "price": 397,
+  "summary": "Bahir Dar is the capital city of the Amhara region in northern Ethiopia.",
+  "description": "It’s a port on the south shore of the huge inland Lake Tana. Dek Island is one of many islands in the lake that are home to medieval monasteries. On the Zege Peninsula, the Ura Kidane Mihret monastery is known for its elaborate, colorful murals. The Blue Nile River snakes southeast of the city toward the towering cliffs at the Blue Nile Falls.",
+  "imageCover": "tour-1-cover.jpg",
+  "locations": [
+    {
+      "type": "Point",
+      "coordinates": [
+        11.689847282013732,
+        37.352372342327186
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3453"
+      },
+      "description": "Azwa Maryam",
+      "day": 1
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        11.490734545469744,
+        37.58801843876347
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3454"
+      },
+      "description": "Blue Nile Fall",
+      "day": 2
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        11.616159723810794,
+        37.401439550688494
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3455"
+      },
+      "description": "Debre Mariam Monastery",
+      "day": 3
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        12.039265165577115,
+        37.31101104744764
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3456"
+      },
+      "description": "Lake Tana",
+      "day": 5
+    }
+  ],
+  "slug": "bahir-dar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63d9376cc3d1840180bb3457"
+  },
+  "startLocation": {
+    "type": "Point",
+    "description": "Addis Ababa , Ethiopia",
+    "coordinates": [
+      9.010303840230044,
+      38.76143666942608
+    ],
+    "address": "Meskel Adebabay"
+  },
+  "ratingAvarage": 4.5,
+  "ratingQuantity": 36,
+  "images": [
+    "tour-2-1.jpg",
+    "tour-2-2.jpg",
+    "tour-2-3.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675179884505"
+    }
+  },
+  "startDate": [
+    {
+      "$date": {
+        "$numberLong": "1624086000000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1658300400000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1660806000000"
+      }
+    }
+  ],
+  "guides": [
+    {
+      "$oid": "5c8a21d02f8fb814b56fa189"
+    },
+    {
+      "$oid": "5c8a201e2f8fb814b56fa186"
+    },
+    {
+      "$oid": "5c8a1f292f8fb814b56fa184"
+    }
+  ],
+  "name": "Axum",
+  "duration": 7,
+  "maxGroupSize": 15,
+  "difficulty": "medium",
+  "price": 497,
+  "summary": "Ethiopian Orthodox Tewahedo Church in Ethiopia",
+  "description": "The Church of Our Lady Mary of Zion is an Ethiopian Orthodox Tewahedo Church in Ethiopia, which is claimed to contain the Ark of the Covenant. The church is located in the town of Axum, Tigray, near the grounds of Obelisks of Axum.",
+  "imageCover": "tour-2-cover.jpg",
+  "locations": [
+    {
+      "type": "Point",
+      "coordinates": [
+        14.130407254665682,
+        38.71958091654892
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3458"
+      },
+      "description": "Axum Thion curch",
+      "day": 1
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        14.13204730250668,
+        38.719158309965
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3459"
+      },
+      "description": "Oblisk Of Axum",
+      "day": 3
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        14.12699432067269,
+        38.706528567637704
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb345a"
+      },
+      "description": "Dungur Palace(Queen Of Sheba Palace)",
+      "day": 5
+    }
+  ],
+  "slug": "axum",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63d9376cc3d1840180bb345b"
+  },
+  "startLocation": {
+    "type": "Point",
+    "description": "Addis Ababa , Ethiopia",
+    "coordinates": [
+      9.010369584651885,
+      38.74482725941975
+    ],
+    "address": "Mexico"
+  },
+  "ratingAvarage": 4.5,
+  "ratingQuantity": 15,
+  "images": [
+    "tour-3-1.jpg",
+    "tour-3-2.jpg",
+    "tour-3-3.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675179884505"
+    }
+  },
+  "startDate": [
+    {
+      "$date": {
+        "$numberLong": "1609830000000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1644649200000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1672988400000"
+      }
+    }
+  ],
+  "guides": [
+    {
+      "$oid": "5c8a1f4e2f8fb814b56fa185"
+    },
+    {
+      "$oid": "5c8a1f292f8fb814b56fa184"
+    }
+  ],
+  "name": "Arbaminch",
+  "duration": 4,
+  "maxGroupSize": 10,
+  "difficulty": "difficult",
+  "price": 997,
+  "summary": "Exciting adventure  Park includes both lakes and grasslands",
+  "description": "Arba Minch is a city and separate woreda in the southern part of Ethiopia. \"Arba Minch\" means \"40 Springs\", originated from the presence of more than 40 springs.",
+  "imageCover": "tour-3-cover.jpg",
+  "locations": [
+    {
+      "type": "Point",
+      "coordinates": [
+        6.025794517953856,
+        37.59953921214415
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb345c"
+      },
+      "description": "Arbaminch Corocodile Farm",
+      "day": 1
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        6.011832257655361,
+        37.553200386867445
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb345d"
+      },
+      "description": "Fortt Spring",
+      "day": 2
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        6.026093279233977,
+        37.56790454472393
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb345e"
+      },
+      "description": "Nechisar National Park",
+      "day": 2
+    }
+  ],
+  "slug": "arbaminch",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63d9376cc3d1840180bb345f"
+  },
+  "startLocation": {
+    "type": "Point",
+    "description": "Addis Ababa , Ethiopia",
+    "coordinates": [
+      9.010303840230044,
+      38.76143666942608
+    ],
+    "address": "Meskel Adebabay"
+  },
+  "ratingAvarage": 4.5,
+  "ratingQuantity": 30,
+  "images": [
+    "tour-4-1.jpg",
+    "tour-4-2.jpg",
+    "tour-4-3.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675179884505"
+    }
+  },
+  "startDate": [
+    {
+      "$date": {
+        "$numberLong": "1646982000000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1619938800000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1654758000000"
+      }
+    }
+  ],
+  "guides": [
+    {
+      "$oid": "5c8a201e2f8fb814b56fa186"
+    },
+    {
+      "$oid": "5c8a23412f8fb814b56fa18c"
+    },
+    {
+      "$oid": "5c8a1f292f8fb814b56fa184"
+    }
+  ],
+  "name": "Hawassa",
+  "duration": 9,
+  "maxGroupSize": 20,
+  "difficulty": "easy",
+  "price": 1197,
+  "summary": "An endorheic basin in Sidama Region of Ethiopia",
+  "description": "is a city in the Great Rift Valley of central Ethiopia. It lies at the eastern edge of large Lake Awasa, with its resident hippos. Water birds gather around a popular fish market along the lake’s shore. Nearby, the waterside Amora Gedel National Park is inhabited by monkeys. To the northwest, Senkele Swayne’s Hartebeest Sanctuary is home to these endangered African",
+  "imageCover": "tour-4-cover.jpg",
+  "locations": [
+    {
+      "type": "Point",
+      "coordinates": [
+        7.04435922126856,
+        38.45742238289906
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3460"
+      },
+      "description": "Amora Gedel",
+      "day": 1
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        7.030981982067739,
+        38.421739078142615
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3461"
+      },
+      "description": "Lake Hawassa",
+      "day": 4
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        7.037546430703055,
+        38.46686801703834
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3462"
+      },
+      "description": "Tabour Mountain",
+      "day": 5
+    }
+  ],
+  "slug": "hawassa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63d9376cc3d1840180bb3463"
+  },
+  "startLocation": {
+    "type": "Point",
+    "description": "Addis Ababa , Ethiopia",
+    "coordinates": [
+      8.98503017922351,
+      38.793638554625495
+    ],
+    "address": "Bole airport"
+  },
+  "ratingAvarage": 4.5,
+  "ratingQuantity": 10,
+  "images": [
+    "tour-5-2.jpg",
+    "tour-5-3.jpg",
+    "tour-5-5.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675179884505"
+    }
+  },
+  "startDate": [
+    {
+      "$date": {
+        "$numberLong": "1659682800000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1647759600000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1660287600000"
+      }
+    }
+  ],
+  "guides": [
+    {
+      "$oid": "5c8a23412f8fb814b56fa18c"
+    },
+    {
+      "$oid": "5c8a21f22f8fb814b56fa18a"
+    },
+    {
+      "$oid": "5c8a201e2f8fb814b56fa186"
+    }
+  ],
+  "name": "Lalibela",
+  "duration": 10,
+  "maxGroupSize": 15,
+  "difficulty": "medium",
+  "price": 1497,
+  "summary": "Monolithic churches located in the Western Ethiopian Highlands",
+  "description": "It's known for its distinctive rock-cut churches dating from the 12th and 13th centuries, which are pilgrimage sites for Coptic Christians. Carved out of rock, the subterranean monoliths include huge Bete Medhane Alem, and cross-shaped Bete Giyorgis. Many are joined by tunnels and trenches, and some have carved bas-reliefs and colored frescoes inside.",
+  "imageCover": "tour-5-cover.jpg",
+  "locations": [
+    {
+      "type": "Point",
+      "coordinates": [
+        12.017053766372962,
+        39.07195329644317
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3464"
+      },
+      "description": "Asheton Maryam Monastery",
+      "day": 1
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        12.031360664131023,
+        39.04463366760694
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3465"
+      },
+      "description": "Beta Gabriel Raphael",
+      "day": 3
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        12.031351064132528,
+        39.04519019644338
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3466"
+      },
+      "description": "Bete Abba Libanos",
+      "day": 4
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        12.031776064065914,
+        39.04557643877058
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3467"
+      },
+      "description": "Bete Amanuel",
+      "day": 6
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        12.033227070747241,
+        39.043406554116125
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3468"
+      },
+      "description": "Rock-Hewn Churches",
+      "day": 7
+    }
+  ],
+  "slug": "lalibela",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63d9376cc3d1840180bb3469"
+  },
+  "startLocation": {
+    "type": "Point",
+    "description": "Addis Ababa , Ethiopia",
+    "coordinates": [
+      9.03589822498506,
+      38.7523986684637
+    ],
+    "address": "Piassa"
+  },
+  "ratingAvarage": 4.5,
+  "ratingQuantity": 10,
+  "images": [
+    "tour-6-1.jpg",
+    "tour-6-4.jpg",
+    "tour-6-3.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675179884505"
+    }
+  },
+  "startDate": [
+    {
+      "$date": {
+        "$numberLong": "1613113200000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1586847600000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1662015600000"
+      }
+    }
+  ],
+  "guides": [
+    {
+      "$oid": "5c8a23412f8fb814b56fa18c"
+    },
+    {
+      "$oid": "5c8a21d02f8fb814b56fa189"
+    }
+  ],
+  "name": "Simien Mountain National Park",
+  "duration": 5,
+  "maxGroupSize": 8,
+  "difficulty": "easy",
+  "price": 1997,
+  "summary": "The highest mountain in Ethiopia and fourteenth highest peak in Africa",
+  "description": "Its rugged terrain includes escarpments, deep valleys and a high plateau, home to rare Walia ibex and Gelada baboons. Tall peaks include the towering Ras Dashen mountain. Trails wind through the park to camps at Sankaber, Geech and Chenek. The central Gidir Got and Imet Gogo summit lookouts have panoramic views of sheer cliffs and the lowlands below.",
+  "imageCover": "tour-6-cover.jpg",
+  "locations": [
+    {
+      "type": "Point",
+      "coordinates": [
+        13.230318502546636,
+        38.06524798296949
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb346a"
+      },
+      "description": "Jinbar Waterfall",
+      "day": 1
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        13.247004453224845,
+        38.21937534651091
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb346b"
+      },
+      "description": "Mount Bwahit",
+      "day": 4
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        13.236675753679146,
+        38.36809106739927
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb346c"
+      },
+      "description": "Ras Dashen",
+      "day": 6
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        13.492610219510563,
+        38.443524938821774
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb346d"
+      },
+      "description": "Simien Mountain",
+      "day": 7
+    }
+  ],
+  "slug": "simien-mountain-national-park",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63d9376cc3d1840180bb346e"
+  },
+  "startLocation": {
+    "type": "Point",
+    "description": "Addis Ababa , Ethiopia",
+    "coordinates": [
+      9.03589822498506,
+      38.7523986684637
+    ],
+    "address": "Piassa"
+  },
+  "ratingAvarage": 4.5,
+  "ratingQuantity": 22,
+  "images": [
+    "tour-7-1.jpg",
+    "tour-7-2.jpg",
+    "tour-7-3.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675179884505"
+    }
+  },
+  "startDate": [
+    {
+      "$date": {
+        "$numberLong": "1616482800000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1635145200000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1643526000000"
+      }
+    }
+  ],
+  "guides": [
+    {
+      "$oid": "5c8a1f4e2f8fb814b56fa185"
+    },
+    {
+      "$oid": "5c8a21f22f8fb814b56fa18a"
+    }
+  ],
+  "name": "Gondar",
+  "duration": 9,
+  "maxGroupSize": 8,
+  "difficulty": "medium",
+  "price": 2997,
+  "summary": "Fasil Ghebbi is a fortress located in Gondar",
+  "description": "Fasil Ghebbi Castle & Kuskuam Palace. It was founded in the 17th century by Emperor Fasilides and was the home of Ethiopian emperors. Its unique architecture shows diverse influences including Nubian, Hindu, Arab, and Baroque characteristics.",
+  "imageCover": "tour-7-cover.jpg",
+  "locations": [
+    {
+      "type": "Point",
+      "coordinates": [
+        12.621308341454412,
+        37.480409627638295
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb346f"
+      },
+      "description": "Debre Birhan Selassie",
+      "day": 1
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        12.608006691095127,
+        37.469666682960415
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3470"
+      },
+      "description": " Fasil Ghabbi",
+      "day": 3
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        12.622524997217434,
+        37.446566828021965
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3471"
+      },
+      "description": "Kusquam",
+      "day": 6
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        12.60949599109415,
+        37.47018872528771
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3472"
+      },
+      "description": "Mentewab's Palace",
+      "day": 6
+    }
+  ],
+  "slug": "gondar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "5c88fa8cf4afda39709c2961"
+  },
+  "startLocation": {
+    "type": "Point",
+    "description": "Addis Ababa , Ethiopia",
+    "coordinates": [
+      9.020900764212236,
+      38.802261905791994
+    ],
+    "address": "Megenagna"
+  },
+  "ratingAvarage": 4.5,
+  "ratingQuantity": 36,
+  "images": [
+    "tour-8-1.jpg",
+    "tour-8-2.jpg",
+    "tour-8-cover.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675179884505"
+    }
+  },
+  "startDate": [
+    {
+      "$date": {
+        "$numberLong": "1639638000000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1642316400000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1670828400000"
+      }
+    }
+  ],
+  "guides": [
+    {
+      "$oid": "5c8a21d02f8fb814b56fa189"
+    },
+    {
+      "$oid": "5c8a21f22f8fb814b56fa18a"
+    }
+  ],
+  "name": "Afar",
+  "duration": 3,
+  "maxGroupSize": 12,
+  "difficulty": "easy",
+  "price": 1497,
+  "summary": "Afar is a locality in the northern Ethiopia",
+  "description": "The Afar Region, formerly known as Region 2, is a regional state in northeastern Ethiopia and the homeland of the Afar people. Its capital is the planned city of Semera, which lies on the paved Awash–Assab highway.",
+  "imageCover": "tour-8-cover.jpg",
+  "locations": [
+    {
+      "type": "Point",
+      "coordinates": [
+        9.083322699189225,
+        39.999999996408405
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3474"
+      },
+      "description": "Awash National Park",
+      "day": 1
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        14.241788928271728,
+        40.299734818648005
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3475"
+      },
+      "description": " Dallol",
+      "day": 1
+    }
+  ],
+  "slug": "afar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63d9376cc3d1840180bb3476"
+  },
+  "startLocation": {
+    "type": "Point",
+    "description": "Addis Ababa , Ethiopia",
+    "coordinates": [
+      9.010303840230044,
+      38.76143666942608
+    ],
+    "address": "Meskel Adebabay"
+  },
+  "ratingAvarage": 4.5,
+  "ratingQuantity": 35,
+  "images": [
+    "tour-9-2.jpg",
+    "tour-9-3.jpg",
+    "tour-9-4.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675179884505"
+    }
+  },
+  "startDate": [
+    {
+      "$date": {
+        "$numberLong": "1639638000000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1642316400000"
+      }
+    },
+    {
+      "$date": {
+        "$numberLong": "1670828400000"
+      }
+    }
+  ],
+  "guides": [
+    {
+      "$oid": "5c8a21f22f8fb814b56fa18a"
+    },
+    {
+      "$oid": "5c8a201e2f8fb814b56fa186"
+    },
+    {
+      "$oid": "5c8a22c62f8fb814b56fa18b"
+    }
+  ],
+  "name": "Adiss Ababa",
+  "duration": 3,
+  "maxGroupSize": 12,
+  "difficulty": "easy",
+  "price": 1497,
+  "summary": "Central city of Ethiopia",
+  "description": "Ethiopia’s sprawling capital in the highlands bordering the Great Rift Valley, is the country’s commercial and cultural hub. Its National Museum exhibits Ethiopian art, traditional crafts and prehistoric fossils, including replicas of the famous early hominid, \"Lucy.\" The burial place of the 20th-century emperor Haile Selassie, copper-domed Holy Trinity Cathedral, is a neo-baroque architectural landmark.",
+  "imageCover": "tour-9-cover.jpg",
+  "locations": [
+    {
+      "type": "Point",
+      "coordinates": [
+        9.02760267989876,
+        38.73726464305261
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3477"
+      },
+      "description": "Merkato Express",
+      "day": 1
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        9.010102507736493,
+        38.76138302524403
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3478"
+      },
+      "description": "Meskel Square",
+      "day": 3
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        9.115470684757717,
+        38.77187844316993
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb3479"
+      },
+      "description": "Mountain Entoto",
+      "day": 5
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        9.03803068477465,
+        38.761850825244345
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb347a"
+      },
+      "description": "National Museum Of Ethiopia",
+      "day": 5
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        9.023133820988916,
+        38.7639317321569
+      ],
+      "_id": {
+        "$oid": "63d9376cc3d1840180bb347b"
+      },
+      "description": "Unity Park",
+      "day": 5
+    }
+  ],
+  "slug": "adiss-ababa",
+  "__v": 0
+}]
