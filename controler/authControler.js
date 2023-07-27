@@ -5,9 +5,10 @@ const User = require('../models/usermodel');
 const Email = require('../utils/email');
 
 const signtoken = function (id) {
+
   return jwt.sign({ id }, process.env.JWT_SECRET, {
     expiresIn: process.env.JWT_EXPIRES_IN,
-  });
+  }); 
 };
 
 const createSendToken = (user, statusCode, res) => {
@@ -92,6 +93,7 @@ exports.logout = (req, res) => {
   });
 };
 exports.protect = async (req, res, next) => {
+  console.log('req.headers')
   let token;
   if (
     req.headers.authorization &&
