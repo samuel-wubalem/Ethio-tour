@@ -1,181 +1,3188 @@
-[{
-  "_id": "5c8a1ec62f8fb814b56fa183",
-  "name": "Abel seyoum",
-  "email": "ayls@example.com",
-  "role": "user",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$tm33.M/4pfEbZF64WbFuHuVFv85v4qEhi.ik8njbud7yaoqCZpjiy"
-},{
-  "_id": "5c8a1dfa2f8fb814b56fa181",
-  "name": "Loul Getachew",
-  "email": "loulou@example.com",
-  "role": "user",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$hP1h2pnNp7wgyZNRwPsOTeZuNzWBv7vHmsR3DT/OaPSUBQT.y0S.."
-},{
-  "_id": "5c8a1d5b0190b214360dc057",
-  "name": "Samuel Webalem",
-  "email": "samiwebalem93@gmail.com",
-  "role": "admin",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$Q0grHjH9PXc6SxivC8m12.2mZJ9BbKcgFpwSG4Y1ZEII8HJVzWeyS"
-},{
-  "_id": "5c8a1f292f8fb814b56fa184",
-  "name": "Ledia Getachew",
-  "email": "leo@example.com",
-  "role": "guide",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$OOPr90tBEBF1Iho3ox0Jde0O/WXUR0VLA5xdh6tWcu7qb.qOCvSg2"
-},{
-  "_id": "5c8a1e1a2f8fb814b56fa182",
-  "name": "Sophie",
-  "email": "sophie@example.com",
-  "role": "user",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$9nFqToiTmjgfFVJiQvjmreLt4k8X4gGYCETGapSZOb2hHa55t0dDq"
-},{
-  "_id": "5c8a21f22f8fb814b56fa18a",
-  "name": "Aarav",
-  "email": "aarav@example.com",
-  "role": "lead-guide",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$lKWhzujFvQwG4m/X3mnTneOB3ib9IYETsOqQ8aN5QEWDjX6X2wJJm"
-},{
-  "_id": "5c8a23c82f8fb814b56fa18d",
-  "name": "Zerubabel",
-  "email": "laura@example.com",
-  "role": "user",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$VPYaAAOsI44uhq11WbZ5R.cHT4.fGdlI9gKJd95jmYw3.sAsmbvBq"
-},{
-  "_id": "5c8a23de2f8fb814b56fa18e",
-  "name": "Yafet",
-  "email": "max@example.com",
-  "role": "user",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$l5qamwqcqC2NlgN6o5A5..9Fxzr6X.bjx/8j3a9jYUHWGOL99oXlm"
-},{
-  "_id": "5c8a1f4e2f8fb814b56fa185",
-  "name": "Jennifer Hardy",
-  "email": "jennifer@example.com",
-  "role": "guide",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$XCXvvlhRBJ8CydKH09v1v.jpg0hB9gVVfMVEoz4MsxqL9zb5PrF42"
-},{
-  "_id": "5c8a201e2f8fb814b56fa186",
-  "name": "Yonas",
-  "email": "kate@example.com",
-  "role": "guide",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$II1F3aBSFDF3Xz7iB4rk/.a2dogwkClMN5gGCWrRlILrG1xtJG7q6"
-},{
-  "_id": "5c8a24282f8fb814b56fa18f",
-  "name": "Kirubel",
-  "email": "isabel@example.com",
-  "role": "user",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$IUnwPH0MGFeMuz7g4gtfvOll.9wgLyxG.9C3TKlttfLtCQWEE6GIu"
-},{
-  "_id": "5c8a245f2f8fb814b56fa191",
-  "name": "Eduardo Hernandez",
-  "email": "edu@example.com",
-  "role": "user",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$uB5H1OxLMOqDYTuTlptAoewlovENJvjrLwzsL1wUZ6OkAIByPPBGq"
-},{
-  "_id": "5c8a24822f8fb814b56fa192",
-  "name": "Soliyana",
-  "email": "john@example.com",
-  "role": "user",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$11JElTatQlAFo1Obw/dwd..vuVmQyYS7MT14pkl3lRvVPjGA00G8O"
-},{
-  "_id": "5c8a24a02f8fb814b56fa193",
-  "name": "Yonas",
-  "email": "lisa@example.com",
-  "role": "user",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$uA9FsDw63v6dkJKGlLQ/8ufYBs8euB7kqIQewyYlZXU5azEKeLEky"
-},{
-  "_id": "5c8a20d32f8fb814b56fa187",
-  "name": "Eliana",
-  "email": "eliana@example.com",
-  "role": "user",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$Jb/ILhdDV.ZpnPMu19xfe.NRh5ntE2LzNMNcsty05QWwRbmFFVMKO"
-},{
-  "_id": "5c8a211f2f8fb814b56fa188",
-  "name": "Kirubel",
-  "email": "chris@example.com",
-  "role": "user",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$r7/jtdWtzNfrfC7zw3uS.eDJ3Bs.8qrO31ZdbMljL.lUY0TAsaAL6"
-},{
-  "_id": "5c8a21d02f8fb814b56fa189",
-  "name": "Solomon",
-  "email": "steve@example.com",
-  "role": "lead-guide",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$q7v9dm.S4DvqhAeBc4KwduedEDEkDe2GGFGzteW6xnHt120oRpkqm"
-},{
-  "_id": "5c8a22c62f8fb814b56fa18b",
-  "name": "Getachew",
-  "email": "miyah@example.com",
-  "role": "lead-guide",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$.XIvvmznHQSa9UOI639yhe4vzHKCYO1vpTUZc4d45oiT4GOZQe1kS"
-},{
-  "_id": "5c8a23412f8fb814b56fa18c",
-  "name": "Belen",
-  "email": "ben@example.com",
-  "role": "guide",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$D3fyuS9ETdBBw5lOwceTMuZcDTyVq28ieeGUAanIuLMcSDz6bpfIe"
-},{
-  "_id": "5c8a24402f8fb814b56fa190",
-  "name": "Alemayehu",
-  "email": "alex@example.com",
-  "role": "user",
-  "active": true,
-  "photo": "default.jpg",
-  "password": "$2a$12$NnclhoYFNcSApoQ3ML8kk.b4B3gbpOmZJLfqska07miAnXukOgK6y"
-},{
-  "_id": {
-    "$oid": "63d8412d0071b220f86813e3"
-  },
-  "role": "admin",
-  "active": true,
-  "name": "samuel",
-  "email": "samuelwebalem@gmail.com",
-  "password": "$2a$12$s3eSafJPzKWNeZHALp/A8u6a73PJn5xmvpEKzE0KCFbxJR1Lf.ARO",
-  "photo": "default.jpg"
-},{
-  "_id": {
-    "$oid": "63d846e2bb37702ee88d78fe"
-  },
-  "role": "user",
-  "active": true,
-  "name": "samuel",
-  "email": "samuelwebalem1@gmail.com",
-  "password": "$2a$12$y8LN9yJm/y94p3QlJKqGXuH2exlLa2IPGaDRGUF/l0HcvQt7GdXlW",
-  "__v": 0
-}]
+{
+    "status": true,
+    "results": 23,
+    "data": {
+        "hospitals": [
+            {
+                "_id": "64c425f7c4ae30f67ffe994e",
+                "name": "Bethzatha Hospital",
+                "phoneNumber": "0912341234",
+                "email": "bethzatha@example.com",
+                "ratingAverage": 4.3,
+                "ratingQuantity": 90,
+                "images": [
+                    "Bethzatha Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            9.0167,
+                            38.7741
+                        ],
+                        "address": "Addis Ababa, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe994f",
+                        "id": "64c425f7c4ae30f67ffe994f"
+                    }
+                ],
+                "services": [
+                    "Emergency Care",
+                    "Orthopedics",
+                    "Dermatology"
+                ],
+                "specialities": [
+                    "Gastroenterology",
+                    "Nephrology",
+                    "Psychiatry"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c40796aa0fe94417475552",
+                        "name": "Dr. Eden Alemu",
+                        "phone": "6543210987",
+                        "email": "eden.alemu@example.com",
+                        "age": 34,
+                        "gender": "female",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475552"
+                    },
+                    {
+                        "_id": "64c40796aa0fe9441747554f",
+                        "name": "Dr. Solomon Tilahun",
+                        "phone": "9876543210",
+                        "email": "solomon.tilahun@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiothoracic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe9441747554f"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475550",
+                        "name": "Dr. Sara Getnet",
+                        "phone": "8765432109",
+                        "email": "sara.getnet@example.com",
+                        "age": 38,
+                        "gender": "female",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Hematologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475550"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475551",
+                        "name": "Dr. Nigusie Asrat",
+                        "phone": "7654321098",
+                        "email": "nigusie.asrat@example.com",
+                        "age": 40,
+                        "gender": "male",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475551"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475553",
+                        "name": "Dr. Yoseph Mekonnen",
+                        "phone": "5432109876",
+                        "email": "yoseph.mekonnen@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475553"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:30",
+                                "endTime": "17:30",
+                                "_id": "64c425f7c4ae30f67ffe9951",
+                                "id": "64c425f7c4ae30f67ffe9951"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9950",
+                        "id": "64c425f7c4ae30f67ffe9950"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe994e"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe9956",
+                "name": "Debre Birhan Referral Hospital",
+                "phoneNumber": "0912121212",
+                "email": "debrebirhan@example.com",
+                "ratingAverage": 4.2,
+                "ratingQuantity": 70,
+                "images": [
+                    "Debre Birhan Referral Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            39.535,
+                            9.6801
+                        ],
+                        "address": "Debre Birhan, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe9957",
+                        "id": "64c425f7c4ae30f67ffe9957"
+                    }
+                ],
+                "services": [
+                    "General Medicine",
+                    "Surgery",
+                    "Gynecology"
+                ],
+                "specialities": [
+                    "Dermatology",
+                    "ENT",
+                    "Orthopedics"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c4083eaa0fe94417475582",
+                        "name": "Dr. Natnael Belachew",
+                        "phone": "8765432109",
+                        "email": "natnael.belachew@example.com",
+                        "age": 38,
+                        "gender": "male",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Hematologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475582"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475581",
+                        "name": "Dr. Fikirte Alemayehu",
+                        "phone": "9876543210",
+                        "email": "fikirte.alemayehu@example.com",
+                        "age": 36,
+                        "gender": "female",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiothoracic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475581"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475584",
+                        "name": "Dr. Yared Wolde",
+                        "phone": "6543210987",
+                        "email": "yared.wolde@example.com",
+                        "age": 34,
+                        "gender": "male",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475584"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475583",
+                        "name": "Dr. Eyerusalem Yimer",
+                        "phone": "7654321098",
+                        "email": "eyerusalem.yimer@example.com",
+                        "age": 40,
+                        "gender": "female",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475583"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475585",
+                        "name": "Dr. Tsion Abate",
+                        "phone": "5432109876",
+                        "email": "tsion.abate@example.com",
+                        "age": 36,
+                        "gender": "female",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475585"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "07:00",
+                                "endTime": "16:00",
+                                "_id": "64c425f7c4ae30f67ffe9959",
+                                "id": "64c425f7c4ae30f67ffe9959"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9958",
+                        "id": "64c425f7c4ae30f67ffe9958"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe9956"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe9942",
+                "name": "Adama General Hospital",
+                "phoneNumber": "0987654321",
+                "email": "adama@example.com",
+                "ratingAverage": 4.2,
+                "ratingQuantity": 80,
+                "images": [
+                    "Adama General Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            39.2816,
+                            8.541
+                        ],
+                        "address": "Adama, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe9943",
+                        "id": "64c425f7c4ae30f67ffe9943"
+                    }
+                ],
+                "services": [
+                    "General Medicine",
+                    "Orthopedics",
+                    "Obstetrics"
+                ],
+                "specialities": [
+                    "Dermatology",
+                    "Gastroenterology"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c40746aa0fe94417475532",
+                        "name": "Dr. Tadesse Bekele",
+                        "phone": "3210987654",
+                        "email": "tadesse.bekele@example.com",
+                        "age": 39,
+                        "gender": "male",
+                        "address": "Jimma, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Neurologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40746aa0fe94417475532"
+                    },
+                    {
+                        "_id": "64c40746aa0fe94417475531",
+                        "name": "Dr. Meseret Getachew",
+                        "phone": "4321098765",
+                        "email": "meseret.getachew@example.com",
+                        "age": 34,
+                        "gender": "female",
+                        "address": "Mekelle, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Ophthalmologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40746aa0fe94417475531"
+                    },
+                    {
+                        "_id": "64c40746aa0fe94417475533",
+                        "name": "Dr. Saba Mengistu",
+                        "phone": "2109876543",
+                        "email": "saba.mengistu@example.com",
+                        "age": 37,
+                        "gender": "female",
+                        "address": "Gonder, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Psychiatrist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40746aa0fe94417475533"
+                    },
+                    {
+                        "_id": "64c40746aa0fe94417475534",
+                        "name": "Dr. Natnael Lemma",
+                        "phone": "1098765432",
+                        "email": "natnael.lemma@example.com",
+                        "age": 33,
+                        "gender": "male",
+                        "address": "Awasa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Endocrinologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40746aa0fe94417475534"
+                    },
+                    {
+                        "_id": "64c40746aa0fe94417475535",
+                        "name": "Dr. Bethlehem Tsegaye",
+                        "phone": "0987654321",
+                        "email": "bethlehem.tsegaye@example.com",
+                        "age": 35,
+                        "gender": "female",
+                        "address": "Adama, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40746aa0fe94417475535"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "09:00",
+                                "endTime": "18:00",
+                                "_id": "64c425f7c4ae30f67ffe9945",
+                                "id": "64c425f7c4ae30f67ffe9945"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9944",
+                        "id": "64c425f7c4ae30f67ffe9944"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe9942"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe995a",
+                "name": "Dessie Referral Hospital",
+                "phoneNumber": "0912987654",
+                "email": "dessie@example.com",
+                "ratingAverage": 4.4,
+                "ratingQuantity": 80,
+                "images": [
+                    "Dessie Referral Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            39.0803,
+                            11.1229
+                        ],
+                        "address": "Dessie, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe995b",
+                        "id": "64c425f7c4ae30f67ffe995b"
+                    }
+                ],
+                "services": [
+                    "Emergency Care",
+                    "Cardiology",
+                    "Obstetrics"
+                ],
+                "specialities": [
+                    "Nephrology",
+                    "Pediatrics",
+                    "Rheumatology"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c40852aa0fe9441747558b",
+                        "name": "Dr. Helina Teshome",
+                        "phone": "9876543210",
+                        "email": "helina.teshome@example.com",
+                        "age": 36,
+                        "gender": "female",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Urologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40852aa0fe9441747558b"
+                    },
+                    {
+                        "_id": "64c40852aa0fe9441747558c",
+                        "name": "Dr. Mikias Kassa",
+                        "phone": "8765432109",
+                        "email": "mikias.kassa@example.com",
+                        "age": 38,
+                        "gender": "male",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Pediatrician",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40852aa0fe9441747558c"
+                    },
+                    {
+                        "_id": "64c40852aa0fe9441747558d",
+                        "name": "Dr. Rahel Fikre",
+                        "phone": "7654321098",
+                        "email": "rahel.fikre@example.com",
+                        "age": 40,
+                        "gender": "female",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gastroenterologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40852aa0fe9441747558d"
+                    },
+                    {
+                        "_id": "64c40852aa0fe9441747558e",
+                        "name": "Dr. Abel Tesfaye",
+                        "phone": "6543210987",
+                        "email": "abel.tesfaye@example.com",
+                        "age": 34,
+                        "gender": "male",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologic Oncologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40852aa0fe9441747558e"
+                    },
+                    {
+                        "_id": "64c40852aa0fe9441747558f",
+                        "name": "Dr. Mahlet Berhanu",
+                        "phone": "5432109876",
+                        "email": "mahlet.berhanu@example.com",
+                        "age": 36,
+                        "gender": "female",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "General Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40852aa0fe9441747558f"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:30",
+                                "endTime": "17:30",
+                                "_id": "64c425f7c4ae30f67ffe995d",
+                                "id": "64c425f7c4ae30f67ffe995d"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe995c",
+                        "id": "64c425f7c4ae30f67ffe995c"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe995a"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe9962",
+                "name": "Gandhi Memorial Hospital",
+                "phoneNumber": "0912989898",
+                "email": "gandhi@example.com",
+                "ratingAverage": 4.1,
+                "ratingQuantity": 60,
+                "images": [
+                    "Gandhi Memorial Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            38.738,
+                            9.0154
+                        ],
+                        "address": "Addis Ababa, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe9963",
+                        "id": "64c425f7c4ae30f67ffe9963"
+                    }
+                ],
+                "services": [
+                    "General Medicine",
+                    "Ophthalmology",
+                    "ENT"
+                ],
+                "specialities": [
+                    "Dermatology",
+                    "Gastroenterology",
+                    "Rheumatology"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c4077faa0fe94417475546",
+                        "name": "Dr. Yidnekachew Demissie",
+                        "phone": "3210987654",
+                        "email": "yidnekachew.demissie@example.com",
+                        "age": 39,
+                        "gender": "male",
+                        "address": "Jimma, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Pulmonologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4077faa0fe94417475546"
+                    },
+                    {
+                        "_id": "64c4077faa0fe94417475547",
+                        "name": "Dr. Amira Woldemichael",
+                        "phone": "2109876543",
+                        "email": "amira.woldemichael@example.com",
+                        "age": 37,
+                        "gender": "female",
+                        "address": "Gonder, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Rheumatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4077faa0fe94417475547"
+                    },
+                    {
+                        "_id": "64c4077faa0fe94417475548",
+                        "name": "Dr. Eyob Zerihun",
+                        "phone": "1098765432",
+                        "email": "eyob.zerihun@example.com",
+                        "age": 33,
+                        "gender": "male",
+                        "address": "Awasa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Neurosurgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4077faa0fe94417475548"
+                    },
+                    {
+                        "_id": "64c4077faa0fe94417475545",
+                        "name": "Dr. Mulualem Alemu",
+                        "phone": "4321098765",
+                        "email": "mulualem.alemu@example.com",
+                        "age": 35,
+                        "gender": "male",
+                        "address": "Mekelle, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Nephrologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4077faa0fe94417475545"
+                    },
+                    {
+                        "_id": "64c4077faa0fe94417475549",
+                        "name": "Dr. Selome Teferi",
+                        "phone": "0987654321",
+                        "email": "selome.teferi@example.com",
+                        "age": 35,
+                        "gender": "female",
+                        "address": "Adama, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologic Oncologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4077faa0fe94417475549"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "09:00",
+                                "endTime": "18:00",
+                                "_id": "64c425f7c4ae30f67ffe9965",
+                                "id": "64c425f7c4ae30f67ffe9965"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9964",
+                        "id": "64c425f7c4ae30f67ffe9964"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe9962"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe995e",
+                "name": "Felege Hiwot Referral Hospital",
+                "phoneNumber": "0912765432",
+                "email": "felegehiwot@example.com",
+                "ratingAverage": 4.6,
+                "ratingQuantity": 100,
+                "images": [
+                    "Felege Hiwot Referral Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            37.7739,
+                            12.61
+                        ],
+                        "address": "Bahir Dar, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe995f",
+                        "id": "64c425f7c4ae30f67ffe995f"
+                    }
+                ],
+                "services": [
+                    "Emergency Care",
+                    "Surgery",
+                    "Gynecology"
+                ],
+                "specialities": [
+                    "Cardiology",
+                    "Neonatology",
+                    "Urology"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c4083eaa0fe94417475582",
+                        "name": "Dr. Natnael Belachew",
+                        "phone": "8765432109",
+                        "email": "natnael.belachew@example.com",
+                        "age": 38,
+                        "gender": "male",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Hematologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475582"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475581",
+                        "name": "Dr. Fikirte Alemayehu",
+                        "phone": "9876543210",
+                        "email": "fikirte.alemayehu@example.com",
+                        "age": 36,
+                        "gender": "female",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiothoracic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475581"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475584",
+                        "name": "Dr. Yared Wolde",
+                        "phone": "6543210987",
+                        "email": "yared.wolde@example.com",
+                        "age": 34,
+                        "gender": "male",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475584"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475583",
+                        "name": "Dr. Eyerusalem Yimer",
+                        "phone": "7654321098",
+                        "email": "eyerusalem.yimer@example.com",
+                        "age": 40,
+                        "gender": "female",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475583"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475585",
+                        "name": "Dr. Tsion Abate",
+                        "phone": "5432109876",
+                        "email": "tsion.abate@example.com",
+                        "age": 36,
+                        "gender": "female",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475585"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:00",
+                                "endTime": "17:00",
+                                "_id": "64c425f7c4ae30f67ffe9961",
+                                "id": "64c425f7c4ae30f67ffe9961"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9960",
+                        "id": "64c425f7c4ae30f67ffe9960"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe995e"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe996a",
+                "name": "Hawassa Referral Hospital",
+                "phoneNumber": "0912345678",
+                "email": "hawassa@example.com",
+                "ratingAverage": 4.5,
+                "ratingQuantity": 90,
+                "images": [
+                    "Hawassa Referral Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            38.4789,
+                            7.0474
+                        ],
+                        "address": "Hawassa, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe996b",
+                        "id": "64c425f7c4ae30f67ffe996b"
+                    }
+                ],
+                "services": [
+                    "General Medicine",
+                    "Surgery",
+                    "Gynecology"
+                ],
+                "specialities": [
+                    "Cardiology",
+                    "Neonatology",
+                    "Urology"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c4083eaa0fe94417475582",
+                        "name": "Dr. Natnael Belachew",
+                        "phone": "8765432109",
+                        "email": "natnael.belachew@example.com",
+                        "age": 38,
+                        "gender": "male",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Hematologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475582"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475581",
+                        "name": "Dr. Fikirte Alemayehu",
+                        "phone": "9876543210",
+                        "email": "fikirte.alemayehu@example.com",
+                        "age": 36,
+                        "gender": "female",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiothoracic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475581"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475584",
+                        "name": "Dr. Yared Wolde",
+                        "phone": "6543210987",
+                        "email": "yared.wolde@example.com",
+                        "age": 34,
+                        "gender": "male",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475584"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475583",
+                        "name": "Dr. Eyerusalem Yimer",
+                        "phone": "7654321098",
+                        "email": "eyerusalem.yimer@example.com",
+                        "age": 40,
+                        "gender": "female",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475583"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475585",
+                        "name": "Dr. Tsion Abate",
+                        "phone": "5432109876",
+                        "email": "tsion.abate@example.com",
+                        "age": 36,
+                        "gender": "female",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475585"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:00",
+                                "endTime": "17:00",
+                                "_id": "64c425f7c4ae30f67ffe996d",
+                                "id": "64c425f7c4ae30f67ffe996d"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe996c",
+                        "id": "64c425f7c4ae30f67ffe996c"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe996a"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe9972",
+                "name": "Hiwot General Hospital",
+                "phoneNumber": "0912345678",
+                "email": "hiwotgeneral@example.com",
+                "ratingAverage": 4.4,
+                "ratingQuantity": 80,
+                "images": [
+                    "Hiwot General Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            38.7749,
+                            9.0141
+                        ],
+                        "address": "Addis Ababa, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe9973",
+                        "id": "64c425f7c4ae30f67ffe9973"
+                    }
+                ],
+                "services": [
+                    "General Medicine",
+                    "Emergency Care",
+                    "Dermatology"
+                ],
+                "specialities": [
+                    "Cardiology",
+                    "Nephrology",
+                    "Psychiatry"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c40796aa0fe94417475552",
+                        "name": "Dr. Eden Alemu",
+                        "phone": "6543210987",
+                        "email": "eden.alemu@example.com",
+                        "age": 34,
+                        "gender": "female",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475552"
+                    },
+                    {
+                        "_id": "64c40796aa0fe9441747554f",
+                        "name": "Dr. Solomon Tilahun",
+                        "phone": "9876543210",
+                        "email": "solomon.tilahun@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiothoracic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe9441747554f"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475550",
+                        "name": "Dr. Sara Getnet",
+                        "phone": "8765432109",
+                        "email": "sara.getnet@example.com",
+                        "age": 38,
+                        "gender": "female",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Hematologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475550"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475551",
+                        "name": "Dr. Nigusie Asrat",
+                        "phone": "7654321098",
+                        "email": "nigusie.asrat@example.com",
+                        "age": 40,
+                        "gender": "male",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475551"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475553",
+                        "name": "Dr. Yoseph Mekonnen",
+                        "phone": "5432109876",
+                        "email": "yoseph.mekonnen@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475553"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "09:00",
+                                "endTime": "18:00",
+                                "_id": "64c425f7c4ae30f67ffe9975",
+                                "id": "64c425f7c4ae30f67ffe9975"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9974",
+                        "id": "64c425f7c4ae30f67ffe9974"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe9972"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe996e",
+                "name": "Hiwot Fana Specialized University Hospital",
+                "phoneNumber": "0912765432",
+                "email": "hiwotfana@example.com",
+                "ratingAverage": 4.6,
+                "ratingQuantity": 100,
+                "images": [
+                    "Hiwot Fana Specialized University Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            39.2717,
+                            6.0348
+                        ],
+                        "address": "Harar, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe996f",
+                        "id": "64c425f7c4ae30f67ffe996f"
+                    }
+                ],
+                "services": [
+                    "Emergency Care",
+                    "Surgery",
+                    "Gynecology"
+                ],
+                "specialities": [
+                    "Cardiology",
+                    "Neonatology",
+                    "Urology"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c4083eaa0fe94417475582",
+                        "name": "Dr. Natnael Belachew",
+                        "phone": "8765432109",
+                        "email": "natnael.belachew@example.com",
+                        "age": 38,
+                        "gender": "male",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Hematologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475582"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475581",
+                        "name": "Dr. Fikirte Alemayehu",
+                        "phone": "9876543210",
+                        "email": "fikirte.alemayehu@example.com",
+                        "age": 36,
+                        "gender": "female",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiothoracic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475581"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475584",
+                        "name": "Dr. Yared Wolde",
+                        "phone": "6543210987",
+                        "email": "yared.wolde@example.com",
+                        "age": 34,
+                        "gender": "male",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475584"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475583",
+                        "name": "Dr. Eyerusalem Yimer",
+                        "phone": "7654321098",
+                        "email": "eyerusalem.yimer@example.com",
+                        "age": 40,
+                        "gender": "female",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475583"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475585",
+                        "name": "Dr. Tsion Abate",
+                        "phone": "5432109876",
+                        "email": "tsion.abate@example.com",
+                        "age": 36,
+                        "gender": "female",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475585"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:00",
+                                "endTime": "17:00",
+                                "_id": "64c425f7c4ae30f67ffe9971",
+                                "id": "64c425f7c4ae30f67ffe9971"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9970",
+                        "id": "64c425f7c4ae30f67ffe9970"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe996e"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe9976",
+                "name": "Jimma University Medical Center",
+                "phoneNumber": "0912123456",
+                "email": "jumc@example.com",
+                "ratingAverage": 4.7,
+                "ratingQuantity": 150,
+                "images": [
+                    "Jimma University Medical Center.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            36.8222,
+                            7.6669
+                        ],
+                        "address": "Jimma, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe9977",
+                        "id": "64c425f7c4ae30f67ffe9977"
+                    }
+                ],
+                "services": [
+                    "General Medicine",
+                    "Surgery",
+                    "Gynecology"
+                ],
+                "specialities": [
+                    "Cardiology",
+                    "Neurology",
+                    "Pediatrics"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c40796aa0fe94417475552",
+                        "name": "Dr. Eden Alemu",
+                        "phone": "6543210987",
+                        "email": "eden.alemu@example.com",
+                        "age": 34,
+                        "gender": "female",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475552"
+                    },
+                    {
+                        "_id": "64c40796aa0fe9441747554f",
+                        "name": "Dr. Solomon Tilahun",
+                        "phone": "9876543210",
+                        "email": "solomon.tilahun@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiothoracic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe9441747554f"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475550",
+                        "name": "Dr. Sara Getnet",
+                        "phone": "8765432109",
+                        "email": "sara.getnet@example.com",
+                        "age": 38,
+                        "gender": "female",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Hematologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475550"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475551",
+                        "name": "Dr. Nigusie Asrat",
+                        "phone": "7654321098",
+                        "email": "nigusie.asrat@example.com",
+                        "age": 40,
+                        "gender": "male",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475551"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475553",
+                        "name": "Dr. Yoseph Mekonnen",
+                        "phone": "5432109876",
+                        "email": "yoseph.mekonnen@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475553"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:30",
+                                "endTime": "17:30",
+                                "_id": "64c425f7c4ae30f67ffe9979",
+                                "id": "64c425f7c4ae30f67ffe9979"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9978",
+                        "id": "64c425f7c4ae30f67ffe9978"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe9976"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe997e",
+                "name": "Landmark Hospital",
+                "phoneNumber": "0912765432",
+                "email": "landmark@example.com",
+                "ratingAverage": 4.6,
+                "ratingQuantity": 100,
+                "images": [
+                    "Landmark Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            38.7904,
+                            9.0105
+                        ],
+                        "address": "Addis Ababa, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe997f",
+                        "id": "64c425f7c4ae30f67ffe997f"
+                    }
+                ],
+                "services": [
+                    "General Medicine",
+                    "Surgery",
+                    "Gynecology"
+                ],
+                "specialities": [
+                    "Cardiology",
+                    "Neonatology",
+                    "Urology"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c4083eaa0fe94417475582",
+                        "name": "Dr. Natnael Belachew",
+                        "phone": "8765432109",
+                        "email": "natnael.belachew@example.com",
+                        "age": 38,
+                        "gender": "male",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Hematologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475582"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475581",
+                        "name": "Dr. Fikirte Alemayehu",
+                        "phone": "9876543210",
+                        "email": "fikirte.alemayehu@example.com",
+                        "age": 36,
+                        "gender": "female",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiothoracic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475581"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475584",
+                        "name": "Dr. Yared Wolde",
+                        "phone": "6543210987",
+                        "email": "yared.wolde@example.com",
+                        "age": 34,
+                        "gender": "male",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475584"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475583",
+                        "name": "Dr. Eyerusalem Yimer",
+                        "phone": "7654321098",
+                        "email": "eyerusalem.yimer@example.com",
+                        "age": 40,
+                        "gender": "female",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475583"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475585",
+                        "name": "Dr. Tsion Abate",
+                        "phone": "5432109876",
+                        "email": "tsion.abate@example.com",
+                        "age": 36,
+                        "gender": "female",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475585"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:00",
+                                "endTime": "17:00",
+                                "_id": "64c425f7c4ae30f67ffe9981",
+                                "id": "64c425f7c4ae30f67ffe9981"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9980",
+                        "id": "64c425f7c4ae30f67ffe9980"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe997e"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe997a",
+                "name": "Kotebe Metropolitan Hospital",
+                "phoneNumber": "0912345678",
+                "email": "kotebe@example.com",
+                "ratingAverage": 4.2,
+                "ratingQuantity": 80,
+                "images": [
+                    "Kotebe Metropolitan Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            38.7725,
+                            9.0089
+                        ],
+                        "address": "Addis Ababa, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe997b",
+                        "id": "64c425f7c4ae30f67ffe997b"
+                    }
+                ],
+                "services": [
+                    "General Medicine",
+                    "Emergency Care",
+                    "Dermatology"
+                ],
+                "specialities": [
+                    "Cardiology",
+                    "Nephrology",
+                    "Psychiatry"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c40796aa0fe94417475552",
+                        "name": "Dr. Eden Alemu",
+                        "phone": "6543210987",
+                        "email": "eden.alemu@example.com",
+                        "age": 34,
+                        "gender": "female",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475552"
+                    },
+                    {
+                        "_id": "64c40796aa0fe9441747554f",
+                        "name": "Dr. Solomon Tilahun",
+                        "phone": "9876543210",
+                        "email": "solomon.tilahun@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiothoracic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe9441747554f"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475550",
+                        "name": "Dr. Sara Getnet",
+                        "phone": "8765432109",
+                        "email": "sara.getnet@example.com",
+                        "age": 38,
+                        "gender": "female",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Hematologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475550"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475551",
+                        "name": "Dr. Nigusie Asrat",
+                        "phone": "7654321098",
+                        "email": "nigusie.asrat@example.com",
+                        "age": 40,
+                        "gender": "male",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475551"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475553",
+                        "name": "Dr. Yoseph Mekonnen",
+                        "phone": "5432109876",
+                        "email": "yoseph.mekonnen@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475553"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:00",
+                                "endTime": "17:00",
+                                "_id": "64c425f7c4ae30f67ffe997d",
+                                "id": "64c425f7c4ae30f67ffe997d"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe997c",
+                        "id": "64c425f7c4ae30f67ffe997c"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe997a"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe9986",
+                "name": "Ras Desta Damtew Hospital",
+                "phoneNumber": "0912345678",
+                "email": "rasdesta@example.com",
+                "ratingAverage": 4.3,
+                "ratingQuantity": 90,
+                "images": [
+                    "Ras Desta Damtew Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            38.7491,
+                            9.0222
+                        ],
+                        "address": "Addis Ababa, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe9987",
+                        "id": "64c425f7c4ae30f67ffe9987"
+                    }
+                ],
+                "services": [
+                    "General Medicine",
+                    "Emergency Care",
+                    "Dermatology"
+                ],
+                "specialities": [
+                    "Cardiology",
+                    "Nephrology",
+                    "Psychiatry"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c40796aa0fe94417475552",
+                        "name": "Dr. Eden Alemu",
+                        "phone": "6543210987",
+                        "email": "eden.alemu@example.com",
+                        "age": 34,
+                        "gender": "female",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475552"
+                    },
+                    {
+                        "_id": "64c40796aa0fe9441747554f",
+                        "name": "Dr. Solomon Tilahun",
+                        "phone": "9876543210",
+                        "email": "solomon.tilahun@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiothoracic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe9441747554f"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475550",
+                        "name": "Dr. Sara Getnet",
+                        "phone": "8765432109",
+                        "email": "sara.getnet@example.com",
+                        "age": 38,
+                        "gender": "female",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Hematologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475550"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475551",
+                        "name": "Dr. Nigusie Asrat",
+                        "phone": "7654321098",
+                        "email": "nigusie.asrat@example.com",
+                        "age": 40,
+                        "gender": "male",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475551"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475553",
+                        "name": "Dr. Yoseph Mekonnen",
+                        "phone": "5432109876",
+                        "email": "yoseph.mekonnen@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475553"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:00",
+                                "endTime": "17:00",
+                                "_id": "64c425f7c4ae30f67ffe9989",
+                                "id": "64c425f7c4ae30f67ffe9989"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9988",
+                        "id": "64c425f7c4ae30f67ffe9988"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe9986"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe9982",
+                "name": "Menelik Hospital",
+                "phoneNumber": "0912345678",
+                "email": "menelik@example.com",
+                "ratingAverage": 4.4,
+                "ratingQuantity": 80,
+                "images": [
+                    "Menelik Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            38.7533,
+                            9.0225
+                        ],
+                        "address": "Addis Ababa, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe9983",
+                        "id": "64c425f7c4ae30f67ffe9983"
+                    }
+                ],
+                "services": [
+                    "General Medicine",
+                    "Emergency Care",
+                    "Dermatology"
+                ],
+                "specialities": [
+                    "Cardiology",
+                    "Nephrology",
+                    "Psychiatry"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c40796aa0fe94417475552",
+                        "name": "Dr. Eden Alemu",
+                        "phone": "6543210987",
+                        "email": "eden.alemu@example.com",
+                        "age": 34,
+                        "gender": "female",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475552"
+                    },
+                    {
+                        "_id": "64c40796aa0fe9441747554f",
+                        "name": "Dr. Solomon Tilahun",
+                        "phone": "9876543210",
+                        "email": "solomon.tilahun@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiothoracic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe9441747554f"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475550",
+                        "name": "Dr. Sara Getnet",
+                        "phone": "8765432109",
+                        "email": "sara.getnet@example.com",
+                        "age": 38,
+                        "gender": "female",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Hematologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475550"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475551",
+                        "name": "Dr. Nigusie Asrat",
+                        "phone": "7654321098",
+                        "email": "nigusie.asrat@example.com",
+                        "age": 40,
+                        "gender": "male",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475551"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475553",
+                        "name": "Dr. Yoseph Mekonnen",
+                        "phone": "5432109876",
+                        "email": "yoseph.mekonnen@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475553"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:30",
+                                "endTime": "17:30",
+                                "_id": "64c425f7c4ae30f67ffe9985",
+                                "id": "64c425f7c4ae30f67ffe9985"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9984",
+                        "id": "64c425f7c4ae30f67ffe9984"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe9982"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe998a",
+                "name": "Saint Gabriel General Hospital",
+                "phoneNumber": "0912123456",
+                "email": "saintgabriel@example.com",
+                "ratingAverage": 4.5,
+                "ratingQuantity": 100,
+                "images": [
+                    "Saint Gabriel General Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            38.7377,
+                            9.0084
+                        ],
+                        "address": "Addis Ababa, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe998b",
+                        "id": "64c425f7c4ae30f67ffe998b"
+                    }
+                ],
+                "services": [
+                    "General Medicine",
+                    "Surgery",
+                    "Gynecology"
+                ],
+                "specialities": [
+                    "Cardiology",
+                    "Neurology",
+                    "Pediatrics"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c40796aa0fe94417475552",
+                        "name": "Dr. Eden Alemu",
+                        "phone": "6543210987",
+                        "email": "eden.alemu@example.com",
+                        "age": 34,
+                        "gender": "female",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475552"
+                    },
+                    {
+                        "_id": "64c40796aa0fe9441747554f",
+                        "name": "Dr. Solomon Tilahun",
+                        "phone": "9876543210",
+                        "email": "solomon.tilahun@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiothoracic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe9441747554f"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475550",
+                        "name": "Dr. Sara Getnet",
+                        "phone": "8765432109",
+                        "email": "sara.getnet@example.com",
+                        "age": 38,
+                        "gender": "female",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Hematologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475550"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475551",
+                        "name": "Dr. Nigusie Asrat",
+                        "phone": "7654321098",
+                        "email": "nigusie.asrat@example.com",
+                        "age": 40,
+                        "gender": "male",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475551"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475553",
+                        "name": "Dr. Yoseph Mekonnen",
+                        "phone": "5432109876",
+                        "email": "yoseph.mekonnen@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475553"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:30",
+                                "endTime": "17:30",
+                                "_id": "64c425f7c4ae30f67ffe998d",
+                                "id": "64c425f7c4ae30f67ffe998d"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe998c",
+                        "id": "64c425f7c4ae30f67ffe998c"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe998a"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe998e",
+                "name": "St. Peter's Specialized Hospital",
+                "phoneNumber": "0912345678",
+                "email": "stpeters@example.com",
+                "ratingAverage": 4.8,
+                "ratingQuantity": 150,
+                "images": [
+                    "St. Peter's Specialized Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            38.7499,
+                            9.0157
+                        ],
+                        "address": "Addis Ababa, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe998f",
+                        "id": "64c425f7c4ae30f67ffe998f"
+                    }
+                ],
+                "services": [
+                    "General Medicine",
+                    "Emergency Care",
+                    "Dermatology"
+                ],
+                "specialities": [
+                    "Cardiology",
+                    "Nephrology",
+                    "Psychiatry"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c40796aa0fe94417475552",
+                        "name": "Dr. Eden Alemu",
+                        "phone": "6543210987",
+                        "email": "eden.alemu@example.com",
+                        "age": 34,
+                        "gender": "female",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475552"
+                    },
+                    {
+                        "_id": "64c40796aa0fe9441747554f",
+                        "name": "Dr. Solomon Tilahun",
+                        "phone": "9876543210",
+                        "email": "solomon.tilahun@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiothoracic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe9441747554f"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475550",
+                        "name": "Dr. Sara Getnet",
+                        "phone": "8765432109",
+                        "email": "sara.getnet@example.com",
+                        "age": 38,
+                        "gender": "female",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Hematologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475550"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475551",
+                        "name": "Dr. Nigusie Asrat",
+                        "phone": "7654321098",
+                        "email": "nigusie.asrat@example.com",
+                        "age": 40,
+                        "gender": "male",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475551"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475553",
+                        "name": "Dr. Yoseph Mekonnen",
+                        "phone": "5432109876",
+                        "email": "yoseph.mekonnen@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475553"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:00",
+                                "endTime": "17:00",
+                                "_id": "64c425f7c4ae30f67ffe9991",
+                                "id": "64c425f7c4ae30f67ffe9991"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9990",
+                        "id": "64c425f7c4ae30f67ffe9990"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe998e"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe9996",
+                "name": "Yekatit 12 Hospital",
+                "phoneNumber": "0912345678",
+                "email": "yekatit12@example.com",
+                "ratingAverage": 4.4,
+                "ratingQuantity": 80,
+                "images": [
+                    "Yekatit 12 Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            38.7505,
+                            9.0245
+                        ],
+                        "address": "Addis Ababa, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe9997",
+                        "id": "64c425f7c4ae30f67ffe9997"
+                    }
+                ],
+                "services": [
+                    "General Medicine",
+                    "Emergency Care",
+                    "Dermatology"
+                ],
+                "specialities": [
+                    "Cardiology",
+                    "Nephrology",
+                    "Psychiatry"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c40796aa0fe94417475552",
+                        "name": "Dr. Eden Alemu",
+                        "phone": "6543210987",
+                        "email": "eden.alemu@example.com",
+                        "age": 34,
+                        "gender": "female",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475552"
+                    },
+                    {
+                        "_id": "64c40796aa0fe9441747554f",
+                        "name": "Dr. Solomon Tilahun",
+                        "phone": "9876543210",
+                        "email": "solomon.tilahun@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiothoracic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe9441747554f"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475550",
+                        "name": "Dr. Sara Getnet",
+                        "phone": "8765432109",
+                        "email": "sara.getnet@example.com",
+                        "age": 38,
+                        "gender": "female",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Hematologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475550"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475551",
+                        "name": "Dr. Nigusie Asrat",
+                        "phone": "7654321098",
+                        "email": "nigusie.asrat@example.com",
+                        "age": 40,
+                        "gender": "male",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475551"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475553",
+                        "name": "Dr. Yoseph Mekonnen",
+                        "phone": "5432109876",
+                        "email": "yoseph.mekonnen@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475553"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:30",
+                                "endTime": "17:30",
+                                "_id": "64c425f7c4ae30f67ffe9999",
+                                "id": "64c425f7c4ae30f67ffe9999"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9998",
+                        "id": "64c425f7c4ae30f67ffe9998"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe9996"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe9992",
+                "name": "St. Paul's Hospital",
+                "phoneNumber": "0912765432",
+                "email": "stpauls@example.com",
+                "ratingAverage": 4.7,
+                "ratingQuantity": 120,
+                "images": [
+                    "St. Paul's Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            38.7463,
+                            9.0059
+                        ],
+                        "address": "Addis Ababa, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe9993",
+                        "id": "64c425f7c4ae30f67ffe9993"
+                    }
+                ],
+                "services": [
+                    "General Medicine",
+                    "Surgery",
+                    "Gynecology"
+                ],
+                "specialities": [
+                    "Cardiology",
+                    "Neonatology",
+                    "Urology"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c4083eaa0fe94417475582",
+                        "name": "Dr. Natnael Belachew",
+                        "phone": "8765432109",
+                        "email": "natnael.belachew@example.com",
+                        "age": 38,
+                        "gender": "male",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Hematologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475582"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475581",
+                        "name": "Dr. Fikirte Alemayehu",
+                        "phone": "9876543210",
+                        "email": "fikirte.alemayehu@example.com",
+                        "age": 36,
+                        "gender": "female",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiothoracic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475581"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475584",
+                        "name": "Dr. Yared Wolde",
+                        "phone": "6543210987",
+                        "email": "yared.wolde@example.com",
+                        "age": 34,
+                        "gender": "male",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475584"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475583",
+                        "name": "Dr. Eyerusalem Yimer",
+                        "phone": "7654321098",
+                        "email": "eyerusalem.yimer@example.com",
+                        "age": 40,
+                        "gender": "female",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475583"
+                    },
+                    {
+                        "_id": "64c4083eaa0fe94417475585",
+                        "name": "Dr. Tsion Abate",
+                        "phone": "5432109876",
+                        "email": "tsion.abate@example.com",
+                        "age": 36,
+                        "gender": "female",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4083eaa0fe94417475585"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:00",
+                                "endTime": "17:00",
+                                "_id": "64c425f7c4ae30f67ffe9995",
+                                "id": "64c425f7c4ae30f67ffe9995"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9994",
+                        "id": "64c425f7c4ae30f67ffe9994"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe9992"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe9966",
+                "name": "Gondar University Hospital",
+                "phoneNumber": "0912887878",
+                "email": "gondaruni@example.com",
+                "ratingAverage": 4.7,
+                "ratingQuantity": 120,
+                "images": [
+                    "Gondar University Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            37.4753,
+                            12.6131
+                        ],
+                        "address": "Gondar, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe9967",
+                        "id": "64c425f7c4ae30f67ffe9967"
+                    }
+                ],
+                "services": [
+                    "General Medicine",
+                    "Surgery",
+                    "Orthopedics"
+                ],
+                "specialities": [
+                    "Cardiology",
+                    "Neurology",
+                    "Pediatrics"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c40796aa0fe94417475552",
+                        "name": "Dr. Eden Alemu",
+                        "phone": "6543210987",
+                        "email": "eden.alemu@example.com",
+                        "age": 34,
+                        "gender": "female",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475552"
+                    },
+                    {
+                        "_id": "64c40796aa0fe9441747554f",
+                        "name": "Dr. Solomon Tilahun",
+                        "phone": "9876543210",
+                        "email": "solomon.tilahun@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiothoracic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe9441747554f"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475550",
+                        "name": "Dr. Sara Getnet",
+                        "phone": "8765432109",
+                        "email": "sara.getnet@example.com",
+                        "age": 38,
+                        "gender": "female",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Hematologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475550"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475551",
+                        "name": "Dr. Nigusie Asrat",
+                        "phone": "7654321098",
+                        "email": "nigusie.asrat@example.com",
+                        "age": 40,
+                        "gender": "male",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475551"
+                    },
+                    {
+                        "_id": "64c40796aa0fe94417475553",
+                        "name": "Dr. Yoseph Mekonnen",
+                        "phone": "5432109876",
+                        "email": "yoseph.mekonnen@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "ENT Specialist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40796aa0fe94417475553"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:30",
+                                "endTime": "17:30",
+                                "_id": "64c425f7c4ae30f67ffe9969",
+                                "id": "64c425f7c4ae30f67ffe9969"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9968",
+                        "id": "64c425f7c4ae30f67ffe9968"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe9966"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe9952",
+                "name": "CURE Ethiopia Children's Hospital",
+                "phoneNumber": "0912998877",
+                "email": "cure.ethiopia@example.com",
+                "ratingAverage": 4.8,
+                "ratingQuantity": 150,
+                "images": [
+                    "CURE Ethiopia Children's Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            38.7738,
+                            9.0291
+                        ],
+                        "address": "Addis Ababa, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe9953",
+                        "id": "64c425f7c4ae30f67ffe9953"
+                    }
+                ],
+                "services": [
+                    "Pediatric Surgery",
+                    "Orthopedics",
+                    "Physiotherapy"
+                ],
+                "specialities": [
+                    "Neonatology",
+                    "Pediatric Neurology",
+                    "Cleft Lip and Palate"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c407b0aa0fe9441747555a",
+                        "name": "Dr. Ephrem Kebede",
+                        "phone": "3210987654",
+                        "email": "ephrem.kebede@example.com",
+                        "age": 39,
+                        "gender": "male",
+                        "address": "Jimma, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Neurologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c407b0aa0fe9441747555a"
+                    },
+                    {
+                        "_id": "64c407b0aa0fe94417475559",
+                        "name": "Dr. Bethlehem Assefa",
+                        "phone": "4321098765",
+                        "email": "bethlehem.assefa@example.com",
+                        "age": 35,
+                        "gender": "female",
+                        "address": "Mekelle, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Ophthalmologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c407b0aa0fe94417475559"
+                    },
+                    {
+                        "_id": "64c407b0aa0fe9441747555c",
+                        "name": "Dr. Dawit Tekle",
+                        "phone": "1098765432",
+                        "email": "dawit.tekle@example.com",
+                        "age": 33,
+                        "gender": "male",
+                        "address": "Awasa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Endocrinologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c407b0aa0fe9441747555c"
+                    },
+                    {
+                        "_id": "64c407b0aa0fe9441747555b",
+                        "name": "Dr. Meron Tadesse",
+                        "phone": "2109876543",
+                        "email": "meron.tadesse@example.com",
+                        "age": 37,
+                        "gender": "female",
+                        "address": "Gonder, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Psychiatrist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c407b0aa0fe9441747555b"
+                    },
+                    {
+                        "_id": "64c407b0aa0fe9441747555d",
+                        "name": "Dr. Selam Demissie",
+                        "phone": "0987654321",
+                        "email": "selam.demissie@example.com",
+                        "age": 35,
+                        "gender": "female",
+                        "address": "Adama, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologic Oncologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c407b0aa0fe9441747555d"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:00",
+                                "endTime": "17:00",
+                                "_id": "64c425f7c4ae30f67ffe9955",
+                                "id": "64c425f7c4ae30f67ffe9955"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9954",
+                        "id": "64c425f7c4ae30f67ffe9954"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe9952"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe9946",
+                "name": "ALERT Hospital",
+                "phoneNumber": "0912345678",
+                "email": "alert@example.com",
+                "ratingAverage": 4,
+                "ratingQuantity": 60,
+                "images": [
+                    "ALERT Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            9.0437,
+                            38.7438
+                        ],
+                        "address": "Addis Ababa, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe9947",
+                        "id": "64c425f7c4ae30f67ffe9947"
+                    }
+                ],
+                "services": [
+                    "Emergency Care",
+                    "Surgery",
+                    "Oncology"
+                ],
+                "specialities": [
+                    "Cardiology",
+                    "Urology",
+                    "ENT"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c4076eaa0fe9441747553e",
+                        "name": "Dr. Rahel Tsegaye",
+                        "phone": "6543210987",
+                        "email": "rahel.tsegaye@example.com",
+                        "age": 34,
+                        "gender": "female",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dentist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4076eaa0fe9441747553e"
+                    },
+                    {
+                        "_id": "64c4076eaa0fe9441747553d",
+                        "name": "Dr. Temesgen Ayele",
+                        "phone": "7654321098",
+                        "email": "temesgen.ayele@example.com",
+                        "age": 40,
+                        "gender": "male",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gastroenterologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4076eaa0fe9441747553d"
+                    },
+                    {
+                        "_id": "64c4076eaa0fe9441747553b",
+                        "name": "Dr. Ephrem Tadesse",
+                        "phone": "9876543210",
+                        "email": "ephrem.tadesse@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Urologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4076eaa0fe9441747553b"
+                    },
+                    {
+                        "_id": "64c4076eaa0fe9441747553c",
+                        "name": "Dr. Hana Gebremedhin",
+                        "phone": "8765432109",
+                        "email": "hana.gebremedhin@example.com",
+                        "age": 38,
+                        "gender": "female",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Oncologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4076eaa0fe9441747553c"
+                    },
+                    {
+                        "_id": "64c4076eaa0fe9441747553f",
+                        "name": "Dr. Dawit Mulugeta",
+                        "phone": "5432109876",
+                        "email": "dawit.mulugeta@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "General Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4076eaa0fe9441747553f"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "07:30",
+                                "endTime": "16:30",
+                                "_id": "64c425f7c4ae30f67ffe9949",
+                                "id": "64c425f7c4ae30f67ffe9949"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe9948",
+                        "id": "64c425f7c4ae30f67ffe9948"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe9946"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe993d",
+                "name": "Tikur Anbessa Specialized Hospital",
+                "phoneNumber": "0123456789",
+                "email": "tikur@example.com",
+                "ratingAverage": 4.7,
+                "ratingQuantity": 100,
+                "images": [
+                    "Tikur Anbessa Specialized Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            9.0252,
+                            38.7412
+                        ],
+                        "address": "Addis Ababa, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe993e",
+                        "id": "64c425f7c4ae30f67ffe993e"
+                    }
+                ],
+                "services": [
+                    "Emergency Care",
+                    "Surgery",
+                    "Maternity",
+                    "Cardiology"
+                ],
+                "specialities": [
+                    "Neurology",
+                    "Oncology",
+                    "Pediatrics"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c40733aa0fe9441747552b",
+                        "name": "Dr. Samuel Mulu",
+                        "phone": "5432109876",
+                        "email": "samuel.mulu@example.com",
+                        "age": 36,
+                        "gender": "male",
+                        "address": "Dire Dawa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Orthopedic Surgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40733aa0fe9441747552b"
+                    },
+                    {
+                        "_id": "64c40733aa0fe94417475529",
+                        "name": "Dr. Yonas Assefa",
+                        "phone": "7654321098",
+                        "email": "yonas.assefa@example.com",
+                        "age": 38,
+                        "gender": "male",
+                        "address": "Hawassa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Dermatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40733aa0fe94417475529"
+                    },
+                    {
+                        "_id": "64c40733aa0fe94417475528",
+                        "name": "Dr. Selam Tesfaye",
+                        "phone": "8765432109",
+                        "email": "selam.tesfaye@example.com",
+                        "age": 32,
+                        "gender": "female",
+                        "address": "Bahir Dar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Pediatrician",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40733aa0fe94417475528"
+                    },
+                    {
+                        "_id": "64c40733aa0fe9441747552a",
+                        "name": "Dr. Ruth Solomon",
+                        "phone": "6543210987",
+                        "email": "ruth.solomon@example.com",
+                        "age": 40,
+                        "gender": "female",
+                        "address": "Gondar, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40733aa0fe9441747552a"
+                    },
+                    {
+                        "_id": "64c40733aa0fe94417475527",
+                        "name": "Dr. Abiy Haile",
+                        "phone": "9876543210",
+                        "email": "abiy.haile@example.com",
+                        "age": 35,
+                        "gender": "male",
+                        "address": "Addis Ababa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Cardiologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c40733aa0fe94417475527"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:00",
+                                "endTime": "17:00",
+                                "_id": "64c425f7c4ae30f67ffe9940",
+                                "id": "64c425f7c4ae30f67ffe9940"
+                            },
+                            {
+                                "startTime": "18:00",
+                                "endTime": "22:00",
+                                "_id": "64c425f7c4ae30f67ffe9941",
+                                "id": "64c425f7c4ae30f67ffe9941"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe993f",
+                        "id": "64c425f7c4ae30f67ffe993f"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe993d"
+            },
+            {
+                "_id": "64c425f7c4ae30f67ffe994a",
+                "name": "Ayder Referral Hospital",
+                "phoneNumber": "0912123456",
+                "email": "ayder@example.com",
+                "ratingAverage": 4.5,
+                "ratingQuantity": 120,
+                "images": [
+                    "Ayder Referral Hospital.jpg"
+                ],
+                "locations": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            39.2691,
+                            13.4756
+                        ],
+                        "address": "Mekelle, Ethiopia",
+                        "description": "Main Hospital Building",
+                        "_id": "64c425f7c4ae30f67ffe994b",
+                        "id": "64c425f7c4ae30f67ffe994b"
+                    }
+                ],
+                "services": [
+                    "General Medicine",
+                    "Pediatrics",
+                    "Gynecology"
+                ],
+                "specialities": [
+                    "Neonatology",
+                    "Neurosurgery",
+                    "Ophthalmology"
+                ],
+                "doctors": [
+                    {
+                        "_id": "64c4077faa0fe94417475546",
+                        "name": "Dr. Yidnekachew Demissie",
+                        "phone": "3210987654",
+                        "email": "yidnekachew.demissie@example.com",
+                        "age": 39,
+                        "gender": "male",
+                        "address": "Jimma, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Pulmonologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4077faa0fe94417475546"
+                    },
+                    {
+                        "_id": "64c4077faa0fe94417475547",
+                        "name": "Dr. Amira Woldemichael",
+                        "phone": "2109876543",
+                        "email": "amira.woldemichael@example.com",
+                        "age": 37,
+                        "gender": "female",
+                        "address": "Gonder, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Rheumatologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4077faa0fe94417475547"
+                    },
+                    {
+                        "_id": "64c4077faa0fe94417475548",
+                        "name": "Dr. Eyob Zerihun",
+                        "phone": "1098765432",
+                        "email": "eyob.zerihun@example.com",
+                        "age": 33,
+                        "gender": "male",
+                        "address": "Awasa, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Neurosurgeon",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4077faa0fe94417475548"
+                    },
+                    {
+                        "_id": "64c4077faa0fe94417475545",
+                        "name": "Dr. Mulualem Alemu",
+                        "phone": "4321098765",
+                        "email": "mulualem.alemu@example.com",
+                        "age": 35,
+                        "gender": "male",
+                        "address": "Mekelle, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Nephrologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4077faa0fe94417475545"
+                    },
+                    {
+                        "_id": "64c4077faa0fe94417475549",
+                        "name": "Dr. Selome Teferi",
+                        "phone": "0987654321",
+                        "email": "selome.teferi@example.com",
+                        "age": 35,
+                        "gender": "female",
+                        "address": "Adama, Ethiopia",
+                        "role": "doctor",
+                        "specialization": "Gynecologic Oncologist",
+                        "ratings": [],
+                        "passwordChangedAt": null,
+                        "passwordResetToken": null,
+                        "passwordResetExpires": null,
+                        "__v": 0,
+                        "id": "64c4077faa0fe94417475549"
+                    }
+                ],
+                "active": true,
+                "availableTimes": [
+                    {
+                        "time": [
+                            {
+                                "startTime": "08:30",
+                                "endTime": "17:30",
+                                "_id": "64c425f7c4ae30f67ffe994d",
+                                "id": "64c425f7c4ae30f67ffe994d"
+                            }
+                        ],
+                        "_id": "64c425f7c4ae30f67ffe994c",
+                        "id": "64c425f7c4ae30f67ffe994c"
+                    }
+                ],
+                "__v": 0,
+                "id": "64c425f7c4ae30f67ffe994a"
+            }
+        ]
+    }
+}
