@@ -7,10 +7,12 @@
   },
   "browserslist": "> 0.25%",
   "scripts": {
-    "start": "nodemon server.js",
-    "watch:js": "parcel watch ./public/js/index.js --dist-dir ./public/js/bundled",
-    "build:js": "parcel build ./public/js/index.js --dist-dir ./public/js/bundled"
-  },
+  "start": "nodemon server.js",
+  "watch:js": "parcel watch ./public/js/index.js --dist-dir ./public/js/bundled",
+  "build:js": "parcel build ./public/js/index.js --dist-dir ./public/js/bundled",
+  "build": "npm run build:js"
+},
+
   "author": "Samuel",
   "license": "ISC",
   "dependencies": {
